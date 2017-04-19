@@ -1,0 +1,12 @@
+Plan
+- Finish commenting classes
+- Work out Math and create a compilation document.
+- Compile all online websites in OpenGL learning compilation. 
+- Create a Word Document describing the project.
+
+
+- Matrix4f
+	- initRotation(). How does the YAW stuff work. google Euler Angles to rotation matrix. 
+	- initPerspective(). Recap on perspective projection. 
+	- initOrthographic()
+
